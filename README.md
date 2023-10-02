@@ -3,7 +3,7 @@
 To run the project, run the display.launch file by:
 roslaunch navvis_description display.launch
 
-Default options are to run using the outdated robot.urdf file and to use the joint_state_pulisher.gui.
+# Default options are to run using the outdated robot.urdf file and to use the joint_state_pulisher.gui.
 
 To run using the updated robot.xacro file by:
 roslaunch navvis_description display.launch use_xacro:=true
